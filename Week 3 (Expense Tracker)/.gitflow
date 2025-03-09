@@ -1,0 +1,20 @@
+[branch "main"]
+    description = Production ready code
+    protect = true
+
+[branch "develop"]
+    description = Development branch
+    base = main
+    protect = false
+
+[prefix]
+    feature = feature/
+    release = release/
+    hotfix = hotfix/
+    bugfix = bugfix/
+
+[workflow]
+    develop-base = main
+    feature-base = develop
+    release-base = develop
+    hotfix-base = main

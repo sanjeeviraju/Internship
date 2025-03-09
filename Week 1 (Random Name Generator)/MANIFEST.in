@@ -1,0 +1,3 @@
+include src/data/*.txt
+include LICENSE
+include README.md

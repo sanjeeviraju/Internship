@@ -1,0 +1,10 @@
+feat: Initial commit
+
+- Add expense tracking functionality
+- Implement GUI with theme support
+- Add data visualization features
+- Include analytics and reporting
+
+Type: feat
+Breaking: false
+Resolves: #1
