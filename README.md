@@ -17,7 +17,7 @@ This repository contains three Python projects demonstrating different aspects o
 A desktop GUI application built with Python and Tkinter that generates creative usernames by combining adjectives and nouns with optional numbers and special characters.
 
 <details>
-<summary>View Details & Screenshots</summary>
+<summary>View Details</summary>
 
 **Key Features:**
 - Modern Tkinter GUI with clean interface
@@ -27,8 +27,6 @@ A desktop GUI application built with Python and Tkinter that generates creative 
 
 **Technologies:** Python, Tkinter
 
-![Username Generator](https://github.com/user-attachments/assets/bec6f97f-df37-4015-81a8-ae22d7588e99)
-
 [View Project Details](Week%201%20(Random%20Name%20Generator)/README.md)
 </details>
 
@@ -36,7 +34,7 @@ A desktop GUI application built with Python and Tkinter that generates creative 
 A responsive web application that provides real-time word counting functionality with support for light/dark themes and error handling.
 
 <details>
-<summary>View Details & Screenshots</summary>
+<summary>View Details</summary>
 
 **Key Features:**
 - Real-time word counting with debouncing
@@ -46,9 +44,6 @@ A responsive web application that provides real-time word counting functionality
 
 **Technologies:** Python, Flask, HTML5, CSS3, JavaScript
 
-![Word Counter Light](https://github.com/user-attachments/assets/44c5fe89-5ff8-48bd-bec1-ef40574993a5)
-![Word Counter Dark](https://github.com/user-attachments/assets/beed1c41-9937-45a6-97d0-dd3c93d16fc2)
-
 [View Project Details](Week%202%20(Word%20Counter)/README.md)
 </details>
 
@@ -56,7 +51,7 @@ A responsive web application that provides real-time word counting functionality
 A comprehensive desktop application for tracking and analyzing personal expenses with data visualization and multiple themes.
 
 <details>
-<summary>View Details & Screenshots</summary>
+<summary>View Details</summary>
 
 **Key Features:**
 - Intuitive expense entry and management
@@ -66,9 +61,6 @@ A comprehensive desktop application for tracking and analyzing personal expenses
 - JSON-based persistent storage
 
 **Technologies:** Python, Tkinter, Matplotlib, JSON
-
-![Expense Tracker Light](https://github.com/user-attachments/assets/211a2269-bdcc-45f1-99b7-35af95ab7b71)
-![Expense Tracker Dark](https://github.com/user-attachments/assets/49d93ba2-6677-42db-8887-ba962659ac6f)
 
 [View Project Details](Week%203%20(Expense%20Tracker)/README.md)
 </details>
